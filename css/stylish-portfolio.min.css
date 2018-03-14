@@ -33,7 +33,7 @@ font: bold;
 letter-spacing: -1;
 background: rgb(0, 0, 0);
 background: rgba(0, 0, 0, 0.9);
-/* padding: 10px; */
+padding: 1px;
 
 }
 
@@ -337,16 +337,16 @@ a:hover {
 }
 
 .btn-primary {
-    background-color: #1d809f!important;
-    border-color: #1d809f!important;
+    background-color: #000000!important;
+    border-color: #000000!important;
     color: #fff!important
 }
 
 .btn-primary:active,
 .btn-primary:focus,
 .btn-primary:hover {
-    background-color: #155d74!important;
-    border-color: #155d74!important
+    background-color: #df50d7!important;
+    border-color: #df50d7!important
 }
 
 .btn-secondary {
@@ -364,6 +364,7 @@ a:hover {
 
 .btn-dark {
     color: #fff!important
+    
 }
 
 .btn {
