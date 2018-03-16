@@ -28,12 +28,24 @@ body {
 
 #standout{
 text-shadow: 0.02em 0.02em 0.02em rgba(0, 0, 0, 0.4);
-color: white;
+color: rgb(0, 0, 0);
 font: bold;
 letter-spacing: -1;
-background: rgb(0, 0, 0);
-background: rgba(0, 0, 0, 0.9);
+background: rgb(255, 255, 255);
+background: rgba(255, 255, 255, .9);
 padding: 1px;
+
+
+}
+#standout-2{
+text-shadow: 0.02em 0.02em 0.02em rgba(0, 0, 0, 0.4);
+color: rgb(0, 0, 0);
+font: bold;
+letter-spacing: -1;
+background: rgb(255, 255, 255);
+background: rgba(255, 255, 255, .9);
+padding: 0px 0px 0px 0px ;
+font-size: 4rem
 
 }
 
