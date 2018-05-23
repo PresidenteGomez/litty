@@ -28,22 +28,22 @@ body {
 
 #standout{
 text-shadow: 0.02em 0.02em 0.02em rgba(0, 0, 0, 0.4);
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 font: bold;
 letter-spacing: -1;
-background: rgb(255, 255, 255);
-background: rgba(255, 255, 255, .9);
+background: rgb(0, 0, 0);
+background: rgba(0, 0, 0, 0.0);
 padding: 1px;
 
 
 }
 #standout-2{
 text-shadow: 0.02em 0.02em 0.02em rgba(0, 0, 0, 0.4);
-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255);
 font: bold;
 letter-spacing: -1;
-background: rgb(255, 255, 255);
-background: rgba(255, 255, 255, .9);
+background: rgb(0, 0, 0);
+background: rgba(0, 0, 0, 0.0);
 padding: 0px 0px 0px 0px ;
 font-size: 4rem
 
@@ -110,7 +110,7 @@ h6 {
     height: auto;
     padding-top: 8rem;
     padding-bottom: 8rem;
-    background: linear-gradient(90deg, rgba(255, 255, 255, .1) 0, rgba(255, 255, 255, .1) 100%), url(../img/bogambilia.png);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.1) 0, rgba(46, 9, 9, 0.1) 100%), url(../img/red-panels.png);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover
