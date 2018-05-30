@@ -5,9 +5,12 @@ html {
 }
 
 body {
-    font-family: 'Source Sans Pro'
+font-family: 'Montserrat', sans-serif;
 }
 
+p{
+    font-family:'Roboto', sans-serif;
+}
 .btn-xl {
     padding: 1.25rem 2.5rem
 }
@@ -159,14 +162,14 @@ h6 {
 .sidebar-nav li.sidebar-nav-item a {
     display: block;
     text-decoration: none;
-    color: #fff;
+    color: #f2f2f0;
     padding: 15px
 }
 
 .sidebar-nav li a:hover {
     text-decoration: none;
-    color: #fff;
-    background: rgba(255, 255, 255, .2)
+    color: #f2f2f0;
+    background: #f2f2f0
 }
 
 .sidebar-nav li a:active,
@@ -226,8 +229,8 @@ h6 {
 }
 
 .service-icon {
-    background-color: #fff;
-    color: #1d809f;
+    background-color: #151E26;
+    color: #F6F5F7;
     height: 7rem;
     width: 7rem;
     display: block;
@@ -271,7 +274,7 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content {
-    color: #fff;
+    color: #F6F5F7;
     margin: auto 2rem 2rem
 }
 
@@ -328,24 +331,24 @@ footer.footer .social-link {
     width: 4rem;
     line-height: 4.3rem;
     font-size: 1.5rem;
-    background-color: #1d809f;
+    background-color: #151E26;
     transition: background-color .15s ease-in-out;
     box-shadow: 0 3px 3px 0 rgba(0, 0, 0, .1)
 }
 
 footer.footer .social-link:hover {
-    background-color: #155d74;
-    text-decoration: none
+    background-color: #F2F2F0;
+    text-decoration: none;
 }
 
 a {
-    color: #1d809f
+    color: #32B088
 }
 
 a:active,
 a:focus,
 a:hover {
-    color: #155d74
+    color: #32B088
 }
 
 .btn-primary {
@@ -385,13 +388,13 @@ a:hover {
 }
 
 .bg-primary {
-    background-color: #1d809f!important
+    background-color: #EAEAEA!important
 }
 
 .text-primary {
-    color: #1d809f!important
+    color: #000000!important
 }
 
 .text-secondary {
-    color: #ecb807!important
+    color: #32B088!important
 }
