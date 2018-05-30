@@ -9,7 +9,7 @@ font-family: 'Montserrat', sans-serif;
 }
 
 p{
-    font-family:'Roboto', sans-serif;
+    /* font-family:'Roboto', sans-serif; */
 }
 .btn-xl {
     padding: 1.25rem 2.5rem
@@ -32,25 +32,9 @@ p{
 #standout{
 text-shadow: 0.02em 0.02em 0.02em rgba(0, 0, 0, 0.4);
 color: rgb(255, 255, 255);
-font: bold;
 letter-spacing: -1;
-background: rgb(0, 0, 0);
-background: rgba(0, 0, 0, 0.0);
-padding: 1px;
-
-
 }
-#standout-2{
-text-shadow: 0.02em 0.02em 0.02em rgba(0, 0, 0, 0.4);
-color: rgb(255, 255, 255);
-font: bold;
-letter-spacing: -1;
-background: rgb(0, 0, 0);
-background: rgba(0, 0, 0, 0.0);
-padding: 0px 0px 0px 0px ;
-font-size: 4rem
 
-}
 
 h1,
 h2,
@@ -120,7 +104,7 @@ h6 {
 }
 
 .masthead h1 {
-    font-size: 4rem;
+    font-size: 50px;
     margin: 0;
     padding: 0
 }
@@ -322,7 +306,8 @@ h6 {
 
 footer.footer {
     padding-top: 5rem;
-    padding-bottom: 5rem
+    padding-bottom: 5rem;
+    background-color: #151E26
 }
 
 footer.footer .social-link {
