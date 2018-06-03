@@ -8,6 +8,16 @@ body {
 font-family: 'Montserrat', sans-serif;
 }
 
+.top-logo{
+    /* position: fixed; */
+
+    text-align: center;
+    
+
+}
+
+
+
 p{
     /* font-family:'Roboto', sans-serif; */
 }
@@ -366,7 +376,9 @@ a:hover {
     color: #fff!important
     
 }
-
+.bg-dark {
+    background-color: #151E26!important;
+}
 .btn {
     box-shadow: 0 3px 3px 0 rgba(0, 0, 0, .1);
     font-weight: 700
