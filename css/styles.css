@@ -24,7 +24,7 @@ font-family: 'Montserrat', sans-serif;
     ),
     url(https://images.unsplash.com/photo-1498998964635-5f65e1a53d2d?ixlib=rb-0.3.5&s=a6662c5fef54ccfdb4725caba793df7c&auto=format&fit=crop&w=3900&q=80);
   min-height: 700px;
-  background-attachment: fixed;
+  background-attachment: relative;
   background-position: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,7 +45,7 @@ padding-top: 6.5rem;
     ),
     url(https://images.unsplash.com/photo-1418065460487-3e41a6c84dc5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjI0MX0&s=c97350039b3e956534436d671139dd51&auto=format&fit=crop&w=2700&q=80);
   min-height: 700px;
-  background-attachment: fixed;
+  background-attachment: relative;
   background-position: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -66,7 +66,7 @@ padding-top: 6.5rem;
     ),
     url(https://images.unsplash.com/photo-1464746133101-a2c3f88e0dd9?ixlib=rb-0.3.5&s=d5b622e2ea747f0eaa17e73a2040031a&auto=format&fit=crop&w=2654&q=80);
   min-height: 700px;
-  background-attachment: fixed;
+  background-attachment: relative;
   background-position: fixed;
   background-repeat: no-repeat;
   background-size: cover;
@@ -191,7 +191,7 @@ h6 {
     background: linear-gradient(90deg, rgba(0, 0, 0, 0.2) 0, rgba(0, 0, 0, 0.2) 100%), url(https://www.energy.gov/sites/prod/files/2017/08/f36/45161_residential_solar.jpg);
     background-position: fixed;
     min-height: 700px;
-    background-attachment: fixed;
+    background-attachment: relative;
     background-repeat: no-repeat;
     background-size: cover;
     padding-top: 6.5rem;
